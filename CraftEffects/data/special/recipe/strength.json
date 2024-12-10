@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"key": {
+		"X": { "item": "minecraft:blaze_powder" },
+		"B": { "item": "minecraft:glass_bottle" }
+	},
+	"pattern": [
+		"X",
+		"B"
+	],
+	"result": {
+		"id": "minecraft:splash_potion",
+		"components": {
+			"potion_contents": {"potion":"strong_strength"}
+		}
+	}
+}

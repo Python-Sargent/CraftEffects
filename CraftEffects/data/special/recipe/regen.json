@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"key": {
+		"X": { "item": "minecraft:ghast_tear" },
+		"B": { "item": "minecraft:glass_bottle" }
+	},
+	"pattern": [
+		"X",
+		"B"
+	],
+	"result": {
+		"id": "minecraft:splash_potion",
+		"components": {
+			"potion_contents": {"potion":"strong_regeneration"}
+		}
+	}
+}

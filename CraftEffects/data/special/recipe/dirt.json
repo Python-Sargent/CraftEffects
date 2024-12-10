@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"key": {
+		"X": { "item": "minecraft:dirt" },
+		"B": { "item": "minecraft:glass_bottle" }
+	},
+	"pattern": [
+		"X",
+		"B"
+	],
+	"result": {
+		"id": "minecraft:splash_potion",
+		"components": {
+			"potion_contents": {"custom_color":5177375,"custom_name":"Splash Potion of Dirt","custom_effects":[{"id":"wither","duration":300,"amplifier":1,"show_icon":false},{"id":"regeneration","duration":300,"amplifier":1,"show_icon":false},{"id":"blindness","duration":300,"amplifier":5,"show_icon":false}]}
+		}
+	}
+}

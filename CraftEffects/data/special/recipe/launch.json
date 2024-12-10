@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"key": {
+		"X": { "item": "minecraft:feather" },
+		"B": { "item": "minecraft:glass_bottle" }
+	},
+	"pattern": [
+		"X",
+		"B"
+	],
+	"result": {
+		"id": "minecraft:splash_potion",
+		"components": {
+			"potion_contents": {"custom_name":"Splash Potion of Launching","custom_color":65442,"custom_effects":[{"id":"minecraft:levitation","amplifier":100,"duration":25,"show_particles":false,"show_icon":false},{"id":"minecraft:slow_falling","amplifier":0,"duration":1200,"show_particles":false,"show_icon":false}]}
+		}
+	}
+}
