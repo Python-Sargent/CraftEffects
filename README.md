@@ -13,9 +13,9 @@ Should work for most versions, although slight changes might need to be made.
 
 All effects follow the same format:
 
-[ x ]
-[ b ]
-[   ]
+{ x }
+{ b }
+{   }
 
 x = ingredient
 b = glass_bottle
